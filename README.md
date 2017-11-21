@@ -4,7 +4,7 @@
 
 I wrote applications in 2016 before I knew what I was doing. As as result, I committed at least two cardinal sins: 
 - cold-emailing professors that I didn't know,
-- escaping from the work of writing by cutting up and gluing together other people's words.
+- escaping from the work of writing by cutting up and gluing together other peoples' words.
 
 From [Philip Guo](http://www.pgbovine.net/grad-school-app-tips.htm):
 > To a professor who receives tons of emails every day, there is nothing that sounds more insincere, contrived, and annoying than receiving impersonal emails from students who express an interest in his/her research, **paraphrasing the contents of abstracts** from his/her papers, and citing elaborate stories about their enthusiasm.
