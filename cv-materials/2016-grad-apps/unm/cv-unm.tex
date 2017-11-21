@@ -1,0 +1,110 @@
+\documentclass[margin]{res} 
+\setlength{\textwidth}{5.1in}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{fontawesome}
+\usepackage{fontspec} 
+\setmainfont{Georgia}
+
+\title{cv-unm}
+
+\newcommand\textbox[1]{\parbox{.333\textwidth}{#1} } 
+\newcommand\job[3]{\textbf{#1}\hfill {#2}\\ \emph{#3} } 
+\newcommand\degree[3]{\textbf{#1}\hfill {#2}\\ \emph{#3} } 
+\newcommand\cs[1]{\textsl{#1} } \newcommand\ri[1]{\textsl{#1} }
+\newenvironment{details}{\begin{itemize}[itemsep=0.6pt,topsep=2.2pt] }{\end{itemize} } 
+
+\begin{document} 
+
+\noindent\textbox{{\it Curriculum Vitae }\hfill } \textbox{\hfill{\large\bf Colton Grainger}\hfill }
+
+\vspace{-20pt}
+\rule{\textwidth}{1pt}
+
+\vspace{-20pt}
+\begin{flushright} 
+(208)~585-7373\\ coltoncgrainger@gmail.com\\ \faTwitter\ \faGithub\hspace{1ex} {\tt @ColtonGrainger} 
+\end{flushright}
+\vspace{-24pt}
+
+\begin{resume}
+
+\section{OBJECTIVE}
+To complete an M.S. in Mathematics (under Plan I, with applied emphasis) at UNM.
+
+\section{EDUCATION}
+\degree{B.S. in Mathematics-Physics}{May 2016}{The College of Idaho, Caldwell, ID \hfill {\rm GPA: 3.49}}
+    \begin{details}
+   		\item Senior Study: \emph{Galois Theory for Differential Equations}
+        \item Advised by Dr. Jonny Comes.
+    \end{details}
+
+\section{RESEARCH INTERESTS}
+
+\ri{Multiscale Analysis and Computation} to approach complex systems (e.g., aquifers).\\
+\ri{Numerical Methods} to model fluid flow and contaminant diffusion in porous media.
+
+\section{EXPERIENCE}
+\job{Refugee Medical Care Intern}{August 2016 -- Present}{YMCA International Services, Houston, TX}
+    \begin{details}
+	  	\item Managed 60 refugee medical cases in a team of 3 staff.
+        \item Arranged medical appointments with transportation and interpretation.
+        \item Facilitated access to low-income health-care and affordable housing.
+	\end{details}
+     
+\job{Course Grader \& Tutor}{September 2015 -- December 2015}{The College of Idaho}
+	\begin{details}
+        \item Graded weekly assignments for a section of 25 general physics students.
+        \item Tutored 5 calculus students in weekly one-on-one sessions.
+    \end{details}
+              
+\job{Dishwasher \& Server}{Summers 2011 -- 2013, Fall 2015}{The Griddle, Meridian, ID}
+    \begin{details}
+        \item Served food and kept clean a 100 $\mathrm{m}^2$ commercial kitchen.
+    \end{details}    
+   
+\section{COMMUNITY INVOLVEMENT}
+\job{Service Corps Fellow}{August 2016 -- Present}{Texas Episcopal Service Corps, Houston, TX}
+	\begin{details}
+    	\item Lived in an intentional community with 2 other fellows.
+    	\item Committed to 1,700 hours of service in 11 months.
+	\end{details}
+            
+\job{WWOOF Ranch-Hand}{Summer 2016}{Sonnwendhof Biofarm, M\"{o}ckm\"{u}hl, Deutschland}
+    	\begin{details}
+    		\item Worked on a cooperative ranch with American, German and Italian WWOOFers.
+            \item Pastured two herds of sheep and maintained a sustainable garden.
+     	\end{details}
+            
+\section{SKILLS\\(rated out of 5)}
+\vspace{0pt}
+\begin{multicols}{2}
+	\parskip=0pt
+    \cs{Languages}
+    		\begin{details}
+            	\item \textbf{German} (3), English (5)
+        	\end{details}
+    \cs{Computer Algebra} 
+        	\begin{details}
+            	\item \textbf{SageMath} (3), Mathematica (2)
+            \end{details}
+    \cs{Programming}
+        	\begin{details}
+            	\item \textbf{Python} (3), C++ (2)
+            \end{details}
+    \cs{Operating}
+        	\begin{details}
+            	\item \textbf{GNU} (3), macOS (4), Windows (4)
+            \end{details}    
+\end{multicols}
+
+\section{HONORS}
+\vspace{10pt}
+	\begin{description}[noitemsep,topsep=0pt]
+		\item[Heritage Scholarship] for academic merit \hfill 2012 -- 2016
+    	\item[Top Putnam Score] among College of Idaho students \hfill 2013, 2015
+        \item[Varsity Skier] on The College of Idaho Ski Team \hfill 2014, 2016
+	\end{description}
+
+\end{resume}
+\end{document}

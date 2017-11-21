@@ -1,0 +1,51 @@
+\documentclass{letter}
+
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Schola}
+
+\title{personal statement}
+
+\signature{Colton Grainger}
+
+\begin{document}
+\begin{letter}{
+Graduate Admissions Committee\\
+University of Colorado at Boulder}
+\opening{To whom it may concern,}
+
+Here's background to my interest in an applied mathematics program. I was finishing my senior research project in Fuchsian differential equations. As I had five weeks before my poster needed to be finished, I searched the library for potential applications. I discovered an author P. Ya.\ Polubarinova Kochina. She had written a book called \emph{The Theory of Groundwater Movement}. Apparently a classic application of Fuchsian differential equations arose in connection with fluid flow through a porous rectangular dam. This sparked my attention.\footnote{I like water. I like how it flows. I like aquifers and riverbeds and irrigation canals.}
+
+However, I ended up following a different trail in my research. In trying to access the translation of Kochina's book, I stumbled into Jeremey Gray's \emph{Linear Differential Equations and Group Theory from Riemann to Poincare}. This test was rather well written (and easier to access online). Gray presented a view of mathematics which I had never seen: slow, heuristic and collaborative.
+
+So it came to pass. I forgot about Kochina’s classical rectangular dam. My research project had excellent historical background and poorly developed physical application. However, the theory of automorphic functions I had picked up from Gray's book encouraged me to relate analysis and fluids.
+
+The whole project really whet my palate. Naturally, I'd like to know more about both the development and the application of Fuchsian differential equations. Now, beyond interest, I feel I have a responsibility to become quantitatively literate. 
+
+% Consequently, I want to matriculate into the department of applied mathematics at CU Boulder. 
+
+I want some methods to approach questions such as
+	\begin{itemize}
+    \item In what style of irrigation does the least water evaporate?
+	\item How quickly do contaminants diffuse across an ecosystem? 
+	\item What is the most durable composition that can be made from locally available materials?
+	\end{itemize}
+
+With a master’s degree in applied mathematics, I imagine myself promoting efficient use of resources. I also imagine myself creating safe places for people to live. This is why, at graduate school, I want to learn \emph{techniques}. 
+
+I also hope to learn theory behind methods. I hope to be authentic with my peers about what I know and don't know. I think sort of honesty promotes healthy collaboration. By the end of my first year, I imagine myself joining a reading/research group in an area of geophysical applied mathematics. 
+
+As I have valuable insights to offer, I am interested in joining a growing program. I have lived in rural and urban areas, spent time with individuals of many ages and cultural backgrounds, and worked up an ambitious scholastic appetite in the process.
+
+I am a good researcher, an excellent collaborator and a creative teacher. I persist through drafts and revisions. I solicit feedback. I write up solutions in plain language. I enjoy building models, plotting six or seven different curves in a family, and perturbing parameters. 
+
+% This year I am working as a clerk at a social services office for refugees in Houston. I persist in obtaining information from Medicaid programs, I organize that information, and I interpret that information for clients. If I can create a database with many different ``filters’’ in plain language written in code easily read on a computer screen with low literacy users in mind, will clients be more comfortable taking the bus to their appointments?
+
+% Here are the strongest parts of my background: communication, teaching, motivation, creativity. I enjoy collecting my findings and presenting them to others. I also enjoy resolving to research for the day at the library. 
+
+\closing{Under your consideration,}
+
+\end{letter}
+\end{document}
+
+
+

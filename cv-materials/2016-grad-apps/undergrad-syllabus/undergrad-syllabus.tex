@@ -1,0 +1,84 @@
+\documentclass[10pt]{article}
+\usepackage[margin=1.25in]{geometry}
+\usepackage{enumitem}
+\usepackage{bibentry}
+\nobibliography*
+
+\usepackage{fontspec} 
+\setmainfont{Georgia}
+
+\title{\vspace{-2cm}Undergraduate Syllabus\footnote{\emph{Courses are listed in reverse chronological order and grouped by academic year.}}}
+\author{Colton Grainger}
+\date{January 20, 2017}
+
+\newcommand{\entry}[7]{
+	\subsection*{#1 #2}
+	#4 credit(s). Taught by #5, with final grade \textbf{#3}.
+	\begin{itemize}
+    	\item #6
+    	\item #7
+    \end{itemize}
+}
+
+\newcommand{\indentry}[7]{
+	\subsection*{#1 #2}
+	#4 credit(s). Advised by #5, with final grade \textbf{#3}.
+	\begin{itemize}
+    	\item #6
+    	\item #7
+    \end{itemize}
+}
+
+\newcommand{\spentry}[7]{
+	\subsection*{#1 #2}
+	#4 credit(s). Taught by #5.
+	\begin{itemize}
+    	\item #6
+    	\item #7
+    \end{itemize}
+}
+
+\begin{document}
+\maketitle
+
+\section*{2015--2016}
+
+\entry{MAT-441}{Topology}{A}{3}{Dave Rosoff}{\bibentry{rosoff2016}}{An introduction to the techniques and theorems of point-set topology. Approached in a modified Moore method, with emphasis on writing, revising and presenting proofs. Topics included cardinality, separation axioms, compactness, connectedness, continuity, as well as novel proofs for the Heine-Borel theorem and the fundamental theorem of algebra.}
+
+\indentry{MAT-494}{Galois Theory for Diff Eqs}{A}{2}{Jonny Comes}{\bibentry{kuga1993}}{An independent study. Explored the correspondence between the fundamental group of the plane with $n$ points removed and its covering surface. Used Galois theory to prune the ring of continuous functions (defined out of the covering surface) down to exactly those functions that were solutions to Fuchsian type differential equations.}
+
+\entry{PHY-330}{Electricity \& Magnetism}{A}{3}{James Dull}{\bibentry{griffiths1999}}{An intermediate level survey of classical electro-magnetic theory including electrostatic and magnetostatic fields and potentials, Gauss's law, Laplace's equation, dielectrics, vector potentials, magnetization and Maxwell's equations.}
+
+\entry{MAT-370}{Geometry}{A}{3}{Jonny Comes}{\bibentry{hitchman2009}}{A preparation for Felix Klein's \emph{Erlangen} program. Developed geometry in terms of a space and a group of transformations of that space. Emphasis on congruence relations. Topics included M\"obius transformations, hyperbolic geometry and elliptical geometry and quotient spaces.}
+
+\entry{MAT-451}{Real Analysis}{A-}{3}{Jonny Comes}{\bibentry{abbott2015}}{Proceeded from the Axiom of Completeness to rigorously prove results about the convergence of sequences and series. Defined continuity (Lipschitz and uniform), the derivative and nowhere differentiable functions. Used suprema and infima to define the Riemann integral.} 
+
+\entry{MAT-498}{Upper Division Seminar}{A}{1}{Dave Rosoff}{\bibentry{shier1999}}{A student-led recitation concerned with computational methods for mathematical modeling. Considering the early outbreak of HIV in Houston as a case study, I presented a introduction to epidemiological modeling.}
+
+\entry{PHY-313}{Thermal Physics}{A}{3}{James Dull}{\bibentry{schroeder2000}}{Physical basis and applications of thermodynamics and statistical mechanics including temperature, heat heat engines, entropy and free energy. Included an introduction to Maxwell-Boltzmann, Bose-Einstein, and Fermi-Direct statistics and their application to the solution of thermal, mechanical and electrical problems in fluids and solids.}
+
+\section*{2014--2015}
+
+\spentry{MAT-431}{Complex Variables}{WA}{0}{Dave Rosoff}{\bibentry{beck2014}}{5 weeks into Spring 2015, I administratively withdrew from all courses due to a health concern.}
+
+\spentry{PHY-400}{Quantum Physics}{WA}{0}{Kathrine Devine}{\bibentry{griffiths2005}}{5 weeks into Spring 2015, I administratively withdrew from all courses due to a health concern.}
+
+\entry{MAT-372}{History of Mathematics}{B}{3}{Dave Rosoff}{\bibentry{boyer2011}}{A historical survey of the ideas, tools, and symbols of mathematics and the people who developed them. Addressed sexigesimal computations, Diophantine equations, as well as medieval Indian analytic geometry. Emphasis on notation and legible proofs.}
+
+\entry{MAT-461}{Algebraic Structures}{B+}{3}{Robin Cruz}{\bibentry{clark2007}}{An inquiry based course in abstract algebra focused primarily on groups. Addressed basic properties, cyclic groups, LaGrange's Theorem, homomorphisms, isomorphisms, representation theorems, normal subgroups and quotient groups. Many examples.}
+
+\entry{MAT-498}{Upper Division Seminar}{A}{1}{Dave Rosoff}{\bibentry{farlow1993}}{A student-led recitation addressing partial differential equations in mathematical modeling. I presented an application of Fourier analysis to analytically solve the heat equation.}
+
+\entry{PHY-301}{Theoretical Mechanics}{B+}{3}{Kathrine Devine}{\bibentry{taylor2005}}{A survey of classical and modern topics in dynamics. Topics included orbital mechanics, non-inertial reference frames, rigid-body motion, Lagrangian and Hamiltonian methods, and elements of nonlinear mechanics and chaos.}
+
+\section*{2013--2014}
+
+\entry{MAT-352}{Differential Equations}{C+}{3}{Dave Rosoff}{\bibentry{2008elementary}}{A study of the solution and applications of ordinary differential equations including systems of equations using matrix algebra.}
+
+\entry{MAT-361}{Linear Algebra}{C}{3}{Robin Cruz}{\bibentry{breezer2012}}{A study of general vector spaces, linear transformations, eigenvalues and eigenvectors.}
+
+\bibliographystyle{unsrt}
+\bibliography{undergrad}
+
+\end{document}
+

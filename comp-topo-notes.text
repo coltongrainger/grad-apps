@@ -1,0 +1,121 @@
+# Computational Topology and Time-Series Analysis (Liz Bradley & Friends) 
+
+## nonlinear time series analysis
+get some scalar time series data
+compute dynamical invariants
+publish a thesis, boom subroutine
+
+
+### an example from the computer science world
+computers are choatic
+dynamics of computation
+the results are not chaotic, but the performace of the 
+
+boot into Linux level zero, or using a real time ??
+
+### yes, computers are dynamical systems, registers, caches, memory --> time click
+
+a deterministic, nonlinear, high-dimensional map! (woohoo!) state at cycle n to n+1
+
+### what are the state variables
+what are the parameters
+even if we could measure the system, we'd disturb
+
+control theory's "observer problem"
+
+## non-linear dynamics offers a partial solution
+
+if the samples are evenly spaced in time, the embedded dynamics are diffeomorphic to the orginical state-space dynamics. (Lyapunov stability? Lyapunov exponent?)
+
+the dynamics are inflated by the number of teeth? (low-dimensional manifolds)
+
+### asymptotics and dynamical systems are not always stationary
+computer is compressing a file
+
+different regimes super imposed => topological stew
+
+### computing the singular values of a matrix?
+what is a regime anyways?
+
+### the earth's climate has two regimes as well
+Epica core
+how to analyze dynamics in different regimes? if we don't have enough data
+
+### topology can help
+
+visiting attractors, then switching...
+a parameter changes, downhill in a different direction
+might not go all around the attractor
+
+the state space dynamics of a computer are continuous
+if two points are close and their forward images in time are not close, we conjecture that two different "things" were acting on the points.
+
+### topology-based separation of the Markov-Henon IFS
+
+markov processes to study Henon map, a synthetic experiment.
+using changes in that topology to tract the changes?
+we know the full dynamics in one synthetic experiment
+
+we used the top-based- seperation strag
+next issue: these are chunks of signals...disjoint in space and time, and often quite short. 
+how to analyze them? techniques that rely on geometry and/or temporal continuity won't work
+picking a scale factor where the number of bins scales out (hand wavy, but we have a paper that explains it)
+
+imagine we visit parts of an attractor, gluing together the paths & time bases for the time visited, we can't paste them together, and they're too short to analyze individually (not a long chunk, no asymptotics)
+
+### zach's phd thesis ()
+data from a sample of the attractor---not too long
+if the dynamics are cts. We can use the samples to build a complex that captures the geometry of the attractor. Then we can use the samples to construct a multi-valued map, that the dynamics of the little samples induce on that complex, then do homology on both of them
+
+we can compute the conley index? we can say rigourous things about the periodic orbits of f, a diffeomorphism.
+
+## cubical multivalued map
+(choose a scale?) from an analyst standpoint, once we've constructed this thing, we can squeeze a lot of data out of it
+computationally expensive, because we have to check the corners of each n-dimensional cube
+
+### witness complex
+construced a simplex, coarse grain it, picking "landmark data" as the corners for the simplex? spacing and distribution of 
+
+computational homology? lots of power
+
+## topology also plays a role in prediction of dynamical systems
+
+from roulette folks at santa cruz? continuity and projection
+
+spose we want to make a weather forecast from the historical record: use the nearest neighbor prediction (find the nearest neighbor, then ask where that neighbor goes) (sometimes that data is not discrete)
+
+### Sampled Lorenz Method of Analogues (SLMA) 
+- In 1970 something, Lorenz proposed analogous attractors... but has an achilles heel, noise! NOISE!
+- leverages the ctny of the observation function
+- uses nearest-neighbor trajectory
+
+### k-ball Sampled Lorenze MEthod of ANalogues
+- little noises are averaged out
+- the obvious modification is to average the sample over a whole bunch of points
+- take the k-nearest neighbors, or all the neighbors in an eps-ball
+
+what are the prediction results? they're pretty good if we hold back the data and then analyze from the first 90%
+
+LOL, but if we're predicting something, then we have to beat the system => some person needs to set the parameters (cannot be automated, dozens of student's trying and failing to do an embedding)
+
+we can dynamically reallocate the cache to low power at certain points in the computation if we know a certain computation will be running for a long time 
+- that's the app: saving power on a mobile phone
+
+BUT, delay coordinate embedding won't work here. (why not? because the system has be analyzed *ex post facto* by a human expert) 
+
+the topology of the projected dynamics is wrong? the topological defects caused by the projection could be unfolded by the embedded of a ? dimension
+
+some collapses of the topology are 
+RMSPE = root mean square prediction error
+
+sometimes the best prediction can come from a loose (low-dimensional) projection... working in a lower dim proj can eliminate noise
+
+CONCLUSION: kinda weird no? unfolds the dynamics upto topological conjugacy.
+
+Joshua Garland's PhD work. (do I need to study probabilites? YES!) 
+
+
+
+
+
+

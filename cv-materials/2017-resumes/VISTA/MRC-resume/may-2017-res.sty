@@ -1,0 +1,64 @@
+\setlength{\textwidth}{5.1in}
+%logical operators
+\usepackage{xstring}
+%fonts and text
+\usepackage{graphicx, marvosym}
+\usepackage[super]{nth}
+\usepackage{hyperref}
+%special options on the lists
+\usepackage{enumitem}
+%double columns lists
+\usepackage{multicol}
+
+% choose a font
+% \usepackage{fontspec} 
+% \setmainfont{Georgia}
+\usepackage{palatino}
+
+% define a text box for the header
+\newcommand\textbox[1]{\parbox{.333\textwidth}{#1}} 
+
+%define the header
+\newcommand\printheader{\noindent
+\textbox{\emph{R\'esum\'e}} 
+\textbox{\centerline{\large\bf Colton Grainger}}
+
+
+\vspace{-20pt}
+\rule{\textwidth}{1pt}
+
+\vspace{-15pt}
+\begin{flushright}
+\begin{tabular}{rc}
+(208) 585-7373 & \Mobilefone\\
+\href{mailto:coltoncgrainger@gmail.com}{\texttt{coltoncgrainger@gmail.com}} & \Letter\\
+\url{coltongrainger.github.io} & \reflectbox{\PointingHand}
+\end{tabular}
+\end{flushright}
+}
+
+%define the objective
+\newcommand\objective[2]{\IfSubStr{#2}{\jobtype}{#1}}
+
+%define the degree
+\newcommand\degree[3]{\textbf{#1}\hfill {#2}\\\emph{#3}} 
+
+%special tags for the job entries
+\newcommand\job[4]{\IfSubStr{#4}{\jobtype}{\textbf{#1}\hfill {#2}\\\emph{#3}}{}}
+
+%define variable line-spaced job entry descriptions
+\newenvironment{details}{\begin{itemize}[itemsep=0.6pt,topsep=2.2pt]}{\end{itemize}}
+
+%special tags on items
+\newcommand\flit[2]{\IfSubStr{#2}{\jobtype}{\item{#1}}{}}
+
+%special tags on awards
+\newcommand\award[3]{\IfSubStr{#3}{\jobtype}{\item[#1]{#2}}{}}
+
+%for the potentially empty lists
+\makeatletter
+\let\@noitemerr\relax
+\makeatother
+
+%define the "skill" environment
+\newenvironment{skill}[1]{\textsl{#1}\begin{itemize}[itemsep=0pt,topsep=2.2pt]}{\end{itemize}}

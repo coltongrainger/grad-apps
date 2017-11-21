@@ -1,0 +1,134 @@
+Precision, Conciseness, Ease.
+
+Instead of could, think ``I will ask to''...
+
+I am impressionable.
+
+Attending graduate school. To help me do what I imagine myself doing in the future. Train me to organize fabrics in a weave that won’t tear. Help me understand how people migrate out of urban areas during natural disasters. Let’s consider how health insurance companies are financed. Can we build structures which stay cool in the summer and warm in the winter? How can we distribute energy in a just and equitable way? What does reciprocity mean in an applied context?
+
+I want to map and analyze a specific set of social / ecological issues with mathematics. Scientific computation for plotting and numerically solving, linear algebra for interpreting the results, PDE theory to build excellent models.
+
+I will rely on my recommendation writers to describe who I am; I will describe what it is that I want to do. I will ask especially Maughan and Rosoff to describe the quality of my character and my potential for growth. I would like to have a ``formative graduate experience.’’
+
+Dr. Dull, may you talk about my familiarity with SI units, Electricity and Magnetism and Thermal Physics? These subjects especially connect vector calculus, probability and statistics, and partial differential equations. I would appreciate if you spoke of my familiarity with physics applications, as well as my capacity to process daily read and note taking. Would you also mention my ability to quickly ``ramp up’’ my experimentalist skills / my report skills / my applied physics skills?
+
+As well, may you mention in our small group recitations I was an aide to my peers and had a decent amount of peer-to-peer pedagogic experiences?
+
+Dr. Maughan, may you be my interdisciplinary advocate? I would appreciate if you explain how I participate in a structured academic environment. I do well under ``creative restraint.’’ I work intentionally, provocatively, and with plenty of research.
+
+May you mention some of my more ``philological’’ training? This prepares me for the tedium / stadium of graduate school. 
+
+What follows is somewhat important. I am motivated to attend graduate school by the prospects of collaborative community. Here’s what I imagine collaborative community as looking like: conversing in technical language with my peers, striving towards mastery (rather than pedantry) and developing clever methods for working against social / ecological injustice. 
+
+What do I imagine myself doing with a Master’s degree in Applied Mathematics? Competitively applying for a Ph.\ D. in Applied Mathematics. Yet, at the same time, a Master’s degree is a professional degree.
+
+I hope to embark on a curriculum of (i) computational mathematics (including linear algebra, python coding, and numerical analysis) and (ii) pure mathematics (complex analysis, prob and stats). With this curriculum completed, I would like to continue to research / model a complex problem in my immediate society or my local ecosystem. 
+
+For the sake of example, I am interested in mapping healthcare coverage, organizing public transportation networks and tracing ground water contaminants. Consequently, I want to study stochastic processes, nonlinear phenomenon, and partial differential equations.
+
+
+Applied Mathematics = a more consistent life. It brings together life enriching time in wilderness, time communicating with my peers, and time in my vocation. To start local and dig in deep. What do I intend to do with a Ph. D.? Solve problems. Its my responsibility as a member of the species. Let’s have a smaller human footprint.
+
+How can farmers use water more efficiently? Under what water rights regime will the rate of refill to the Snake River Basin aquifer be maximized?
+
+How can we interpolate the mineral composition and geological materials in the regions of farm land which have not been drilled for wells? What methods are available to construct a model? How will we interpret the results of the model? How will we communicate the specific implications to the general public? The general results to the mathematical community? Irrigation is a very old land management technique. What can we do to be more efficient with water?
+
+In my research of Fuchsian differential equations, I struggled to find a phenomenon with which I could model. A few interesting articles I encountered were written by P. Ya. Polubarinova Kochina. She wrote a book in 1931 titled, later translated into English as ``the theory of ground water motion.’’ Apparently her class of differential equations was a subset of Fuchsian differential equations. 
+
+I struggled to gain access to her publications, so I read others’ reviews of her works.
+
+Eventually, I passed through browser windows into a historical account of the Fuchsian differential equation. The work introduced the slow collaboration between Fuchs and Schwarz and Poincaré. They theorized how to write solutions to Fuchsian equations via automorphic functions. This predated P. Ya. Polubarinova Kochina by some degree, and ultimately yielded no obvious physical application. 
+
+Committee person, I want to share three situations. I look forward to studying fluid mechanics. I am intrigued by the species’ use of water the western united states---especially held up in dams and reservoirs and drained through turbines and into canals for irrigation. I would gladly resume coursework, striving to take classes in numerical analysis and partial differential equations. 
+
+I may register for two graduate level courses at UH: Linear Algebra and Probability. I have also begun an independent study of Bruce Shapiro’s scientific computing: python for math junkies. 
+
+CU Boulder is a good fit for me because (i) profs in the APPM dept. are interested in advanced topics, (ii) you all have a strong non-linear phenomenon, physical applied mathematics and scientific computation departments, (iii) I would gladly live in Colorado. 
+
+* I am a good fit for CU Boulder because (i) I have a strong background in interdisciplinary work (BE SPECIFIC), (ii) I am eventually interested and motivated to tackle a complex facet of some larger social or ecological issue, (iii) I am prepared to balance coursework and research. Looking at the course catalog, I imagine myself completing Numerical Analysis within my first year and applied analysis within my second.
+
+* My recommendations can attest to my aptitude in logical rigour. As well as completing those two (fundamental) year-long sequences, I imagine myself taking the 400/500 level course in complex analysis and applications. 
+
+The applications I am currently interested in are problems arising in geology, water management, and health insurance markets. 
+
+
+
+This year I am doing ``clerical’’ work and assisting with refugee case management in Houston. I persist in obtaining information from Medicaid programs, I organize that information, and I interpret that information for clients.
+
+How can healthcare information be ``denoised’’
+What benefits does a spatial presentation of data have? 
+
+
+
+If water rights in Idaho are restructured from \ldots
+
+Why not consider political boundaries to coincide with watersheds?
+
+I am attracted to methods such as domain space decomposition because I feel, at the grounds of knowing, that is what I am doing with healthcare info.
+
+Now, I want to learn some techniques to formalized my applications. I want to explore the ``theory behind the method’’ in a community of supportive individuals (peers and profs). Eventually, I imagine myself finding a research group in the physical applied mathematics area, specifically considering atmospheric/oceanic/geological processes. Equally like, I imagine myself studying with the group to process and denoise images, whether these data sets come from geological or medical sources.
+
+
+
+I want to study Idaho’s watershed and Houston’s healthcare. I am intrigued by queues and public transportation networks. 
+
+I imagine myself solving PDES. Also, I imagine myself becoming very interested in Stochastic calculus or probabilistic modeling. This theory might relate best to public transportation. 
+
+Here are the strongest parts of my background: communication, teaching, motivation, creativity
+
+I would like a teaching assistantship.
+
+* What is the optimal shape and structure for railways and roads in the next 100 years? What does ``local architecture’’ look like? In any given geological region, what is the most durable concrete that can be crafted out of materials no more than 100 kilometers away? Same question, but for fabrics? What materials are most resistant to solar radiation? What irrigation systems incur the least water lost due to evaporation? What water rights systems promote water conservation?
+
+Optimization. To be a champion. To be the best. To speak up.
+
+I am <a good researcher> <an excellent collaborator> and <a creative teacher>. I persist through drafts and revisions. I solicit feedback. I write up. I enjoy building tiny models, plotting six or seven different curves in a family, wiggling parameters. 
+
+I enjoy heuristic approaches. I like building home for people. 
+
+why how what?
+
+I want to create safe places and promote effecient use of resources. I want healthcare to be accessible. Sometimes a little forethought goes a long way. What does the species need?
+
+Use ``I imagine’’ and ``I find interesting’’ to describe why CU Boulder is a good fit for me. Use the imperfect past tense to describe why I am a good fit for CU Boulder.
+
+wide range of inter…
+
+pedagogy
+
+SUMMARY OF PERSONAL STATEMENT
+ 
+I finished a senior research project in Fuchsian differential equations. During the preparation, I was intrigued by potential applications. I discovered an author P. Ya. Po. Kochina, who wrote a book called the theory of groundwater movement. Apparently a classic example of fuchsian equations arose in connection with her treatment of fluid flow through a porous rectangular dam. This sparked my attention.
+
+I like water. I like how it flows. I like aquifiers and riverbeds and irrigation canals. I like how people relate to water. I imagine myself working with rocks and water.
+
+One of my best friends spoke with me about quantitative literacy. She said it would be rather important in the next few decades. I agreed. We need quantitatively literate people. 
+
+I want to be a quantitatively literate person. I want some methods to approach answers to questions like:
+-What irrigation systems incur the least water lost due to evaporation? 
+-What water rights systems promote water conservation?
+-How do contaminants diffuse accross and ecosystem? How much? In what period of time? 
+-In any given geological region, what is the most durable concrete that can be crafted out of materials no more than 100 kilometers away? 
+
+With a master’s degree in applied mathematics, I imagine myself creating safe places and promoting effecient use of resources. At graduate school, I want to learn some techniques. I want to explore the ``theory behind the method’’ in a community of supportive individuals (peers and profs). 
+
+Eventually, I imagine myself finding a research group in the physical applied mathematics area, specifically considering geological/ecological processes. 
+
+I am a good researcher, an excellent collaborator and a creative teacher. 
+I persist through drafts and revisions. I solicit feedback. I write up. I enjoy building tiny models, plotting six or seven different curves in a family, wiggling parameters. 
+
+Here are the strongest parts of my background: communication, teaching, motivation, creativity
+
+
+No unnecessary distinctions between geological and medical images. Thumbs up CU boulder. Surveying the watershed might use the same signal processing as tomography.
+
+This year I am doing ``clerical’’ work and assisting with refugee case management in Houston. I persist in obtaining information from Medicaid programs, I organize that information, and I interpret that information for clients.
+I enjoy collecting my finds and presenting them to others. I also enjoy resolving to research for the day at the library. 
+
+* I am interested in joining a growing program. I feel I have valuable insights to offer. I have lived in rural and urban areas, worked with individuals of many ages and cultural backgrounds, and worked up an ambitious scholastic appetite in the process.
+The process is very document based and oriented to the written word. Beyond day-to-day business, I am striving to create a system of accurate and ``culturally appropriate’’ resources. 
+
+If I can create a database with many different ``filters’’ in plain language written in code easily read on a computer screen with low literacy users in mind, will clients be more comfortable taking the bus to their appointments?
+
+
+

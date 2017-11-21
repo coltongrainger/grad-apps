@@ -1,0 +1,278 @@
+CU Boulder
+
+	\ri{Dynamical Systems} for fluvial geomorphology and agricultural science.\\
+    \ri{Stochastic Processes} to model contaminant diffusion and evaluate risk.
+
+	Ian Grooms
+	ian.grooms@colorado.edu 
+	emailed 3/5/17
+	
+		Howdy Dr. Grooms,
+
+		I'm an applicant to the Fall '17 Applied Math MS program. I'm interested in numerical methods for PDEs, with applications to contaminant diffusion in groundwater.
+
+		I reaching out because I'm familiar with your work in support of atmosphere and ocean science.
+
+		Would you recommend a book or article that connects applied maths with environmental responsibility? (Or refer me to a graduate student who might have a suggestion?)
+
+		Much Appreciated,
+		Colton Grainger
+
+	Graduate Coordinator
+	online submission on 3/5/17
+
+		I've applied for Fall 2017. Would you recommend any books or articles to read before my first year of graduate studies? I'm interested in numerical methods for PDEs, inverse problems, ground water percolation and contaminant diffusion. Thanks!
+
+	Mark Hoefer
+	hoefer@colorado.edu
+	Associate Professor
+	Graduate Committee Chair
+	emailed 3/18
+	
+		Associate Professor Mark Hoefer,
+
+		I am an applicant to the fall 2017 Masters program in applied maths. I want to study numerical methods for PDEs, applied to understand contaminant diffusion in groundwater. 
+
+		Would you recommend any specific books or articles to prepare me for graduate level coursework given my interest in groundwater? Any surveys of methods used in contaminant modelling?
+
+		Thanks,
+		Colton Grainger
+
+
+	Emily O’Connor
+	Graduate Program Assistant
+	Emily.oconnor@colorado.edu
+	emailed 3/18
+
+		Emily,
+
+		May I know if I am on a waitlisted for the MS program in applied maths?
+
+		When could I expect an admission decision to be made?
+
+		Best,
+		Colton Grainger
+
+University of Utah
+
+	\ri{Multiscale Analysis and Computations} for fluid dynamics and ground water flow.\\
+	\ri{Material Science} concerning percolation models and inverse problems.
+	
+	Yekaterina Epshteyn
+	emailed 3/5/17
+	
+		Associate Professor Yekaterina Epshteyn,
+
+		I am an MS applicant with interest for inverse problems to characterize the porosity and permeability of soil mixtures. I want to understand how contaminants diffuse into ground water.
+
+		I am reaching out because I am familiar with you and Professor Golden's application of inverse homogenization to demonstrate that brine inclusion separations vanish in sea ice. I wonder if these results could also characterize microstructures in aquifers such that one could demonstrate that contaminants would (or would never) pass a geophysical boundary.
+		 
+		(i) To learn more about modeling flow in porous media, what reading do you recommend?
+		(ii) Would you advocate for the consideration of my application?
+
+		In Gratitude,
+		Colton Grainger
+
+
+	Kenneth Golden
+	Professor
+	golden@math.utah.edu
+	emailed 3/19
+
+		Professor Golden,
+
+		I am an MS applicant for Fall 2017. 
+
+		Since encountering inverse homogenization in your study of brine separations in sea ice, I have been curious if similar methods could characterize the porosity and permeability of soil.
+
+		Would you recommend any specific books or articles that would prepare me to frame these questions as a first year graduate student?
+
+		(I have recently received The Princeton Companion to Applied Mathematics, if you would like to recommend any chapters in there....)
+
+		Thanks,
+		Colton Grainger
+
+		Materials and Fluids: Fluid flow through sea ice, remote sensing of sea ice, statistical mechanics of electrorheological fluids
+
+		studies coarse microstructures.
+		"In many composite materials, the effective behavior depends critically on the connectedness, or percolation properties of a particular phase. For example, sandstones are permeable to water only when there is a high enough volume fraction of pores that they connect and form pathways. Likewise, the electromagnetic properties of a polymer film with conducting particles vary dramatically near the critical volume fraction where the particles begin to form a connected matrix.... Much of my recent mathematical work has focused on analysis of transport in lattice and continuum percolation models, the connections to statistical mechanics, and the application of these models to porous media.... We have also been developing (with E. Cherkaev) inverse algorithms for recovering the physical properties of sea ice or other composites via electromagnetic means."
+
+	Elena Cherkaev
+		Professor
+		elena@math.utah.edu
+
+		Inverse problems, homogenization, calculus of variations and optimization, numerical methods, wave propagation, partial differential equations, applications in bioengineering and geophysics
+
+		studies material science. 
+		"My field is inverse problems, especially the recovery of properties of a medium from measured responses. These problems arise in geophysics and material sciences, in electromagnetics and engineering, in biomedical and environmental applications.... One has to decide what measurements are needed to recover the properties of the medium. For example, in electrical tomography the voltages are registered on the surface of the body, these voltages are generated by the applied currents. The question is: What currents are to be injected if one wishes to recover the conductivity of the body with a given accuracy?... A different type of inverse problem arises when the considered medium is very inhomogeneous, say it is a fine mixture of two different materials. Then one is interested in recovering some averaged description of this medium rather than the exact configuration of the materials."
+
+	Professor Elena Cherkaev,
+
+		I am a prospective MA student with an interest in inverse problems. I see myself studying how contaminants diffuse in groundwater.
+
+		In the next 4 months, I will complete an internship in the sweltering city of Houston. During my free time, I would like to cool off and prepare for graduate coursework in inverse problems.
+
+		If you have the opportunity, would you please suggest some introductory reading or prerequisite topics that could be fruitful for me to look into?
+
+		Thank you,
+		Colton Grainger
+
+	Paula Tooman
+		Graduate Program Coordinator
+		tooman@math.utah.edu
+
+	Ms. Tooman,
+
+		Excuse my asking---I have read the FAQs for graduate admissions, and they indicate I should know by the end of April---but would you know if I am wait-listed for the MA program?
+
+		As you have the time, could you please explain a little bit about the graduate committee in the admissions decision process?
+
+		Best,
+		Colton Grainger
+
+Washington State University
+
+	\ri{Ill-posed \& Inverse Problems} to understand contaminant diffusion in ground water.\\
+	\ri{Derivative-Free Optimization} and its numerical implementations on sparse data.
+
+	Asaki, Thomas James
+		Associate Professor
+		tasaki@wsu.edu
+
+		Serves as chair on graduate committee.
+		
+		Teaching Interests
+		Quantitative radiograph analysis, methods for expensive optimization, mixed-variable optimization, uncertainty propagation in data analysis, discrete transformation discovery, and related software development.
+		Research Interests
+		Mathematical modeling, mathematical biology, numerical partial differential equations, computational biofluids.
+
+	Associate Professor Tom Askai,
+
+		I am an applicant for the Fall 2017 MS program. 
+
+		After reading your "human peices", I want to share a bit about myself that escaped my CV. I am two years in recovery from substance abuse. In these two years, I completed my BS and then interned at a refugee resettlement agency. I am not sure of your background or experience with recovery, so I lightly acknowledge: my academic acheivements really only began after Spring of 2015. I am taking some steps to remedy gaps in my coursework, e.g., learning linear alegbra in the context of computer science applications, but I'm looking for a little direction.
+
+		Can I curiously phrase a question? Do you have any recommendations for self-study? I've got about 4.5 months before embarking in graduate studies. I'm wondering how to get prepared.
+
+		Best,
+		Colton Grainger
+
+		I forwarded this to Megan. She said
+
+			So lovely to hear from you! I could see the next email already, so: good news about the acceptance! I wonder about the funding part. It seems to me that it would be unusual these days for a spot to be offered without funding, but I am not sure. I would advise calling the office (not a professor directly) to see whether that information might come separately.
+
+			I would take the "curiously" out of the email.
+
+			Part of my intuition is to save the information you shared for the *second* email. But I'm not sure. It seems you want to explain why you have certain gaps; however, I think it would OK to start by saying that you are working on some of them. It seems to me that you could first share your love of mathematics: what else have you been reading? What is your favorite topic? And then, upon some acquaintance, you could explain further. I don't write this because I think the recovery period is a bad thing-- you are strong, and you have taken good steps. It is more that I want him to see your love first, and let him reach out again to you, and then say more.
+
+			I don't think it will be bad if you ignore this rather subjective advice. Now, you can also write and say you have been accepted!
+
+			There are tulips everywhere in my yard-- it is spring! I imagine that it's warm in Houston. Are you still there? I hope your days are going well.
+
+	I ended up sending this email:
+
+	Associate Professor Tom Askai,
+
+		I am a prospective student for the Fall 2017 MS program. This year I took an internship at a refugee resettlement office, but my love is really for mathematics. I have recently been reading about percolation theory and inverse homogenization. My favorite application of inverse homogenization is for characterizing brine seperations in sea ice.
+
+		Your research focus is derivative-free optimization? What are your favorite applications? Just this fall, I attended a seminar where Luis Nunes Vicente introduced a "Space Decomposition Framework for Nonlinear Optimization". His discussion ended with bit of convergence theory that was beyond my grasp. 
+
+		That said, I recognize that I have a few gaps in my undergraduate curriculum---so I'm taking steps to remedy them. For example, I've been learning linear alegbra in the context of computer science applications. I'm also working towards literacy in a Unix-like operating system.
+
+		Do you have any recommendations for self-study? I've got about 4.5 months before embarking in graduate studies. I'm wondering how to get prepared.
+
+*	Hong-Ming Yin
+		Professor
+		hyin@math.wsu.edu
+
+		What's an introduction to inverse problems?
+
+*	Manoranjan, Valipuram S, Ph.D.
+		Professor
+		mano@wsu.edu
+
+		Serves as chair on graduate committee.
+
+		Teaching Interests
+		Environmental Problems, Industrial Applications, Mathematical & Computer Modeling.
+		Research Interests
+		Contaminant transport in groundwater, transdermal drug delivery, models for tumor growth and disease dynamics.
+
+	Panchenko, Alexander, Ph.D.
+		Professor
+		panchenko@math.wsu.edu
+
+		Serves as graduate committee member.
+
+		Teaching Interests
+		Homogenization in Partial Differential Equations with Application to Materials Science, Accoustics of Porous Media and Granular Materials, Inverse Problems for Elliptic Equations, Mathematical Tomography.
+		Research Interests
+		Network approximation for effective parameters of concentrated suspensions, homogenization of unconsolidated composites and media with moving interfaces, modeling of osteoporosis and blood circulation, and inverse conductivity problem with rough conductivities.
+
+		Professor Panchenko,
+
+			I am a prospective student for the Fall 2017 MS program. In 4 months I will finish my year of service at a refugee resettlement office to embark on graduate studies. I'm wondering how to get prepared. 
+
+			Recently I have been reading about percolation theory and inverse homogenization. My favorite application of inverse homogenization is for characterizing how brine separations vanish in sea ice. How well could these results carry over to characterize microstructures in aquifers? Could one demonstrate that contaminants would eventually seep through certain boundaries? 
+
+			Prior to answering these questions, I feel that I need to remedy a few gaps in my undergraduate curriculum. Right now I am revisiting some old topics. For example, I have been learning linear algebra in the context of computer science applications. I am also working towards literacy in a Unix-like operating system.
+
+			Do you have further recommendations for self-study? To lay the foundations for a successful graduate career?
+
+			Any reply appreciated,
+			Colton Grainger
+
+
+University of New Mexico
+
+	\ri{Multiscale Analysis and Computation} to approach complex systems (e.g., aquifers).\\
+	\ri{Numerical Methods} to model fluid flow and contaminant diffusion in porous media.
+
+	To develop alternative energy sources for small devices, I would study mathematical physics under Associate Professor Alexander Korotkevich. Alternatively, I could contribute to climate studies by modeling ocean circulation with Professor Jens Lorenz.
+
+*	Alexander Korotkevich
+		Associate Professor
+		alexkor@math.unm.edu
+
+		My research interests are primarily concentrated on nonlinear waves in different media. In many cases, for such interesting and complex phenomena, the only available tool for solution of the equations is a numerical simulation. I have extensive experience in the simulation of nonlinear interaction of waves on the surface of fluids and wave turbulence. I was also involved in the creation and implementation of the parallel algorithms for simulation of light propagation in high bandwidth optical fibers. I prefer problems of applied mathematics which have motivation in theoretical physics. Recently I participated in research of high energy laser beam propagation in a nuclear fusion plasma, which was motivated by the creation of the National Ignition Facility.
+
+		Recent development of metamaterials --- artificial optical materials having properties which are absent in natural light propagation media, proposed a challenging problem of simulation of light propagation in such a nanoscale optical structures. Usually numerical code for simulation of such a nanocomposite involves solution of Maxwell equations for very specific geometry and boundary conditions. Solution of 3D Maxwell equations were always a challenging problem and this case is not an exception. Currently I am involved in the creation of algorithms and implementation of such specialized Maxwell solver.
+
+*	Jens Lorenz
+		Professor
+		lorenz@math.unm.edu
+
+		My areas of reseach are Applied Analysis and Scientific Computing. Specific problems that I have worked on lately include: the stability of shock and spiral waves; the modeling of ocean circulations for climate studies; the transition from smooth to rough attractors and Lyapunov–type numbers. I am broadly interested in partial differential equations and their numerical approximation.
+
+		Most of the applications I have worked on are related to fluids, but a recent interest is a nonlinear Black–Scholes equation in financial mathematics. The Black–Scholes equation is used extensively for option pricing; it becomes nonlinear if one assumes dependence of the volatility on the asset price.
+
+
+Dr. Rosoff,
+
+Of the schools I have applied to, 2 cannot offer me admission (CSU, OSU), 2 offered addmission without financial aid (CU Boulder, WSU), and 2 have not replied (UU, UNM).
+
+I told myself I would send word as soon as I heard back, but, in truth, I've been waiting (almost holding my breath) for the response I most wanted. Well, it's still Lent---I can bear waiting past April 15 to find out if I am offered admission with a teaching assistantship. Maybe UU and UNM will make an offer in their second round.
+
+Two questions:
+
+	1. I'm already executing some of my backup plans (for example, submitting a resume to work as a data analyst at the office where I have interned this year) because, knowing myself, I would rather change my life's direction than take on debt for grad school. When do I close the book on grad school for Fall 2017? 
+
+	2. What if I don't go to grad school? Do I apply again? Do I move on?
+
+By Megan's recommendation, over the last few months, I did to "rep" myself, i.e., contact faculty to express my enthusiasm for studying and my interest in their work. In some of my emails I asked "Would you suggest introductory reading or prerequisite topics...?" and "Do you have any recommendations for self-study?" Re-reading these emails, I notice a kind of weighty desperation buried in each. 
+
+I can characterize this desperation. In therapy from Spring 2015 onwards, I have had to ruthlessly confront myself and, by exploitation of my brain's plasticity, reach into my limbic mind to untie gordian knots, rejoin partitioned memories, and rearrange narrative structures. In this process I came to realize that, eventually, my brain would set and that there would be no more limbic overhauls.
+
+And, so, this Winter, watching some numberphile videos, I reacted with vicseral fear against a quote from G.H. Hardy. He said, of Ramanujan, "The years between 18 and 25 are critical years in a mathematician's career, and the damage had been done." As a result, Ramajujan was "misdirected, sidetracked, and to a certain extent distorted." I fear that, if I don't get moving right now, I will become a damaged good. 
+
+In contrast, my fear of being damaged eminates from old and reinscribed way of reading the world, which to move past is my goal. 
+
+I still want to get moving. And I have friendly helpers, right? "What's your life about, enlighten me \\ Is you gonna live on your knees, or die on your feet \\ Take out that student loan, and pay off your college degree \\ ... ?" King Kendrick both warns me not to endenture myself for an education, and encourages me that, even if I can't get in, I am still responsible for "repping" what my life is about.
+
+
+Still though, gotta hear back from UNM and UU.
+
+Best,
+Colton Grainger 
+
+

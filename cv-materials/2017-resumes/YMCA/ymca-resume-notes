@@ -1,0 +1,77 @@
+QUALIFICATIONS
+
+	quality assurance
+		refugee management system, a SQL database written in python
+
+	created data management plans
+		eRED documents
+		low income health care applications
+		Medicaid transportation
+		case note frequency dist
+		collaboration with Andrew Merville at USCRI TX, the Medical Replacement Designee
+			eRED database
+			RMA Portal 
+
+	experienced end user
+		7 months as a clerk for medical case management and social adjustment services
+		empathetic with case managers's needs and time constraints
+		(sometimes I have just the first name, just the last name, mail comes with just the children's name)
+		can we produce an enrollment record for case managers? 
+			a CSV document with an updated roster of clients enrolled?
+		when is a case file closed?
+		exporting days of service from case note frequency
+		the more case notes, the more services.
+		if a case note is written in case notes are register
+
+	a client should be enrolled once, then referred with complete transfer of data
+	case managers should never duplicate data entry
+	a case note is record of service, writing a case note should populate the days of service tracker
+	potentially tagging case notes with character sequences?
+
+	Seasoned Beginner as a MySQL administrator
+
+	working knowledge in Windows, macOS and Linux,
+
+	computer programming in C++ and Python
+
+	comfort working in different file types: CSV, XML, ASCII, UTF-8
+
+	quick study. in 6 weeks I increase my GRE subject test in Mathematics score by 3/4 of a std. dev.
+
+	volunteer of the month dec 2016
+		found rental assistance for 3 families
+		accompanied clients to medical appointments
+		applied and obtained low income healthcare
+		worked with the most frequently seen clients in PC & SAS
+
+	1 year experience with Git repositories for data integrity
+	2 years experience in technical reporting
+
+GOALS
+
+	a vision for improvement
+		easy demographic reports
+			vetted data for ORR reporting
+			managing duplication
+			user performance summaries
+		bidirectional reporting => compliance with ORR and utility for case managers
+		utilizing metadata (for example, to isolate clients who have not been served)
+			"Metadata is information that describes your data."
+		smarter search functions; pulling the clients into view that the case manager has in mind
+			"Using controlled vocabularies and ontologies makes it clear what you mean (because agreed definitions are part of the terms) and makes it easier to search across many data sets for information of a particular type or to perform automated processing on massive sets of data." http://library.stanford.edu/research/data-management-services/faq/managing-data-faq
+		data integrity for individual refugees, regardless of case (useful in DV situations)
+
+	program coordinators educated on the use of ClientTrack database
+
+	to as much as possible, the use of the ClientTrack database takes advantage of case note writing for quality assurance. rather than require case managers to spend more time in data entry, we should determine methods for exporting days of service data from case notes.
+
+	create a data management plans
+		description of data (nature, scope, course)
+		resposibility (PI with overall responsibility for DMP)
+		designated archive (Eccovia?)
+		access & sharing (public-use vs. restricted-use, timely reporting)
+		selection & retention of data (XML, CSV)
+
+
+	
+
