@@ -1,6 +1,6 @@
 # grad-apps
 
-![keyword bingo](keyword-bingo.gif)
+![keyword bingo](cv-materials/keyword-bingo.gif)
 
 I wrote applications in 2016 before I knew what I was doing. As as result, I committed at least two cardinal sins.
 
