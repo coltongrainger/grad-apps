@@ -27,6 +27,23 @@ status: draft
 		- Galois Theory & Fuchsian Equations 
 		- Igneous Dikes in Scotland
 	- 2017 
+		- year of service in refugee case management
+			- data management
+			- vetted data during the implementation of 3 refugee databases
+		- novel, scalable resources for social workers
+			- case notes as narratives
+			- google maps API
+			- attemping to crowd source cultural knowledge
+				- native language speakers
+				- clinics 
+				- bus routes
+			- refugee health needs assessment with medical students at Baylor
+		- git, web design
+			- coordinating volunteer program for family homeless shelter
+		- supplemental coursework
+			- probability 
+			- differential equations
+			- numerical methods
 		- personal transparency
 		- coltongrainger.com
 - pedagogy
@@ -62,3 +79,5 @@ From [How People Learn](https://www.colorado.edu/MCDB/LearningBiology/readings/H
 
 
 
+- U.S. Committee for Refugees and Immigrants to ensure that clients were effectively rolled out of the Texas Medicaid \& Healthcare Partnership database into the RMA portal
+- I divided up my time between personal and professional projects. Here I highlight some of my professional projects. In general, I focused on developing novel, scalable resources for persistent issues in refugee case management. I began to build an [GitHub repository](https://github.com/coltongrainger/ymca-resources) of forms and instructions for low income healthcare applications and rental assistance. I established contact with and solicited feedback from staff in the Harris Health System, at the Islamic Society of Greater Houston, and at Gulf Coast Community Services Association. I incorporated my experience in direct service with the higher-level feedback from each organization. I found the best way for case managers to submit applications and detailed exactly what is expected of the client during the application process. Because our clients have limited English proficiency, I emphasized that case managers need to be aggressive and “get the job done” when faced with unnecessarily complicated release of information constraints. I also learned more about Shaoli’s Refugee Health Working Group. I created and distributed a [map of clinics](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing). I participated in a refugee health needs assessment with medical students at Baylor. I even was fortunate to be invited to contribute to the design of a data management plan for the next refugee social service database. The above examples are united by a common thread: each represents a small contribution to a larger dialogue surrounding the resettlement of displaced persons.
