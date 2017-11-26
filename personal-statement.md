@@ -5,10 +5,12 @@ date: 2017-11-23
 status: draft
 ---
 
+I aim to pursue a PhD in Mathematics, and my career aspiration is to become an applied mathematician. My research interests include topological data analysis, persistent homology, and homotopy theory.
+
 ## Outline
 
 - chronology
-	- 2014
+		- 2014
 		- coupled oscillating pendula
 		- putnam
 	- 2015
@@ -61,7 +63,7 @@ status: draft
 		- WebWork
 		- to publish small deck of Calculus review anki card
 
-Meta-understanding of maths. Metaphorically a journey through an unfamilar domain. From [Eliezer Yudkowsky](http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/) 
+Meta-understanding of maths. Metaphorically a journey through an unfamilar domain. From [Eliezer Yudkowsky](http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/)
 > believing, and updating on evidence, so as to systematically improve the correspondence between your map and the territory
 As an occasional rock climber, I really enjoy the play between "math improves one's map of territory" and "programming is climbing a mountain". Rosoff once commented that a meta-theorem of math was to prove useful theorems alone, and once for all, so that higher level math can be done. Which amounts to having explored (either in detail or with breadth) common features and routes in the foundational territory of mathematical knowledge. I think of theorems and installations, then, as signposts in a domain. When performing mathematical research, or a long computation, theorems are like carabiners.
 
