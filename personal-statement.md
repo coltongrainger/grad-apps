@@ -9,7 +9,7 @@ I aim to pursue a PhD in Mathematics, and my career aspiration is to become an a
 
 The abstraction that a mathematical discipline provides determines the domain on which it can be fruitfully applied. Just imagine discovering an affinity network between websites using only harmonic analysis, or modeling an epidemic with strictly deterministic differential equations. I aim to study algebraic topology, and concomitant computational methods, to explore the versatility of spatial intuition in data analysis.
 
-Consider training a computer to distinguish the tone signature of various musical instruments: the persistence of certain features (components, holes, cavities) in the data can be seen as a sample statistic for probabilistic analysis. :
+Consider training a computer to distinguish the tone signature of various musical instruments: the persistence of certain features (components, holes, cavities) in the data can be seen as a sample statistic for probabilistic analysis. 
 
 
 I approach advanced study of mathematics related to TDA by looking at examples first 
