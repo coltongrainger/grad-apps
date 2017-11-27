@@ -5,9 +5,23 @@ date: 2017-11-23
 status: draft
 ---
 
-I aim to pursue a PhD in Mathematics, and my career aspiration is to become an applied mathematician. My research interests include topological data analysis, persistent homology, and homotopy theory.
+I aim to pursue a PhD in Mathematics, and my career aspiration is to become an applied mathematician. My research interests include topological data analysis (TDA), algebraic topology, and scientific computing. 
 
-Here's an example edit. More example.
+The abstraction that a mathematical discipline provides determines the domain on which it can be fruitfully applied. Just imagine discovering an affinity network between websites using only harmonic analysis, or modeling an epidemic with strictly deterministic differential equations. I aim to study algebraic topology, and concomitant computational methods, to explore the versatility of spatial intuition in data analysis.
+
+Consider training a computer to distinguish the tone signature of various musical instruments: the persistence of certain features (components, holes, cavities) in the data can be seen as a sample statistic for probabilistic analysis. :
+
+
+I approach advanced study of mathematics related to TDA by looking at examples first 
+
+in which frequency analysis I approach advanced study 
+<!---
+representative sets of data can be used to create simplicial complexes can be computationally implemented jkk
+
+From my study of Galois theory with Dr. Jonny Comes, my introduction to topology equations with Dr. Jonny Comes, and Prof. Dave Rosoff, and continuing 
+
+I am ambitious to participate in dialogue persistent homology as a tool for understanding the shape of data. 
+--->
 
 ## Outline
 
