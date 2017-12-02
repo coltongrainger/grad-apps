@@ -1,0 +1,53 @@
+\setlength{\textwidth}{5.1in}
+
+%fonts and text
+\usepackage{graphicx, marvosym}
+\usepackage[super]{nth}
+\usepackage{hyperref}
+
+%special options on the lists
+\usepackage{enumitem}
+
+%double columns lists
+\usepackage{multicol}
+
+% choose a font
+\usepackage{fontspec} 
+\setmainfont{Georgia}
+% \usepackage{palatino}
+
+% define a text box for the header
+\newcommand\textbox[1]{\parbox{.333\textwidth}{#1}} 
+
+%define the header
+\newcommand\printheader{\noindent
+\textbox{\emph{R\'esum\'e}} 
+\textbox{\centerline{\large\bf Colton Grainger}}
+
+\vspace{-20pt}
+\rule{\textwidth}{1pt}
+
+\vspace{-15pt}
+\begin{flushright}
+\begin{tabular}{rc}
+\href{mailto:colton.grainger@gmail.com}{\texttt{colton.grainger@gmail.com}} & \Letter\\
+\href{http://coltongrainger.com}{\texttt{coltongrainger.com}} & \reflectbox{\PointingHand}
+\end{tabular}
+\end{flushright}
+\vspace{-15pt}
+}
+
+%define the degree
+\newcommand\degree[3]{\textbf{#1}\hfill {#2}\\\emph{#3}} 
+
+%define jobs
+\newcommand\job[3]{\textbf{#1}\hfill {#2}\\\emph{#3}}
+
+%define variable line-spaced job entry descriptions
+\newenvironment{details}{\begin{itemize}[itemsep=0.6pt,topsep=2.2pt]}{\end{itemize}}
+
+%define the "skill" environment
+\newenvironment{skill}[1]{\textsl{#1}\begin{itemize}[itemsep=0pt,topsep=2.2pt]}{\end{itemize}}
+
+%define computer skills
+\newcommand\cs[1]{\emph{#1}}
