@@ -1,7 +1,3 @@
-------------------------------------------------------------------------
-
-\
-
 The robustness of a mathematical method determines its utility. Just
 imagine designing a communication network that fails to account for
 topological perturbations, or modeling an epidemic with strictly
@@ -19,10 +15,10 @@ Here, a topological invariant answers the question “which instrument?”
 with higher fidelity than the Fourier Transform.
 
 My research interest stems from (i) my exposure to topology and its
-applications as a college senior, and (ii) insight from two years of
+applications as a college senior, and (ii) insight from two years of
 service work since graduating.
 
-Advised by Dr. Jonny Comes, my senior independent study[^1] examined how
+Advised by Dr. Jonny Comes, my senior independent study[^1] examined how
 Galois theory constrains the solution space of Fuchsian-type DiffEqs.
 Following Michio Kuga, we developed a correspondence between the
 fundamental group on $D = \mathbf{C}\setminus\{x_1,\ldots,x_n\}$ and
@@ -34,7 +30,7 @@ cases, I found the monodromy representation at singular points, and
 generated plots. I presented my method, its history, and an application
 to fluid flow at The College of Idaho’s 2016 student research
 conference. At the same time, I studied point-set topology under
-Dr. Dave Rosoff. He led seminar in a modified Moore method. I reasoned
+Dr. Dave Rosoff. He led seminar in a modified Moore method. I reasoned
 from topological counter examples, finding errata in our notes by
 discovering non-intuitive spaces, e.g., the space whose open sets are
 those sets with countable complements. Further, we drew out analogies
@@ -79,7 +75,4 @@ mathematics at CU Boulder would be a great fit for my interests.
 
 Thank you for your consideration.
 
-[^1]: C. Grainger, [Applications of Galois Theory: Monodromy Groups and
-    Fuchsian
-    DiffEqs](http://coltongrainger.com/documents/cgrainger_coursework_galois_poster.pdf),
-    College of Idaho SRC, 2016.
+[^1]: C. Grainger, [Applications of Galois Theory: Monodromy Groups and Fuchsian DiffEqs](http://coltongrainger.com/documents/cgrainger_coursework_galois_poster.pdf), College of Idaho SRC, 2016.
