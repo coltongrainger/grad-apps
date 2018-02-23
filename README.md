@@ -11,3 +11,10 @@ From [Philip Guo](http://www.pgbovine.net/grad-school-app-tips.htm):
 
 From [Orwell](http://www.orwell.ru/library/essays/politics/english/e_polit/):
 > As soon as certain topics are raised, the concrete melts into the abstract and no one seems able to think of turns of speech that are not hackneyed: prose consists less and less of words chosen for the sake of their meaning, and more and more of **phrases tacked together like the sections of a prefabricated hen-house.**
+
+## updates
+
+- Univeristy of Oregon, rejected
+- University of Utah, rejected
+- Washington State University, accepted without funding (i.e., rejected)
+- CU Boulder Applied Math, maybe?
