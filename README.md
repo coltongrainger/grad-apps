@@ -16,5 +16,7 @@ From [Orwell](http://www.orwell.ru/library/essays/politics/english/e_polit/):
 
 - Univeristy of Oregon, rejected
 - University of Utah, rejected
-- Washington State University, accepted without funding (i.e., rejected)
-- CU Boulder Applied Math, maybe?
+- Washington State University, accepted w/o funding
+- CU Boulder, Applied Math, waitlisted
+- CU Boulder, Pure Math, waitlisted
+- University of Rochester, waitlisted
