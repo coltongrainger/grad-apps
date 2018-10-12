@@ -14,9 +14,4 @@ From [Orwell](http://www.orwell.ru/library/essays/politics/english/e_polit/):
 
 ## updates
 
-- Univeristy of Oregon, rejected
-- University of Utah, rejected
-- Washington State University, accepted w/o funding
-- CU Boulder, Applied Math, accepted w/o funding
-- CU Boulder, Pure Math, waitlisted
-- University of Rochester, rejected
+- CU Boulder, Pure Math, accepted
